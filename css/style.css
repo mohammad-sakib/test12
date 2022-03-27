@@ -1,0 +1,32 @@
+.header {
+	min-height: 70px;
+	background-color: red;
+}
+.container{
+	border:5px solid aqua;
+   overflow:hidden;
+}
+.blog1{
+	float: left;
+	width:30%;
+     min-height: 150px;
+	background-color:green;
+	/*border:5px solid red;*/
+	margin-right:3.3%;
+}
+.bg1 {
+	background-color: red;
+}
+.box1 {
+	background-color: blue;
+}
+.contact{
+	   float: right;
+	   width:40%;
+       min-height: 150px;
+	background-color: blue;
+}
+.footer {
+	  /*clear:both;*/
+	min-height: 70px;
+	background-color: black;
